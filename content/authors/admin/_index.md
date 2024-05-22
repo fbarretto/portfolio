@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Francisco Barretto
 
 # Is this the primary user of the site?
 superuser: true
@@ -10,7 +10,7 @@ role: ''
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🤖
 
 # Organizations/Affiliations
 #organizations:
@@ -18,12 +18,12 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Software engineer, multimedia artist, creative technologist, and maker playing with AI and Computer Creativity.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Artificial Intelligence
+- Computational Linguistics
+- Information Retrieval
 
 #education:
 #  courses:
@@ -51,10 +51,9 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    - icon: github
+    icon_pack: fab
+    link: https://github.com/gcushen
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -66,8 +65,12 @@ social:
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Multimedia artist, software engineer, professor, researcher and creative coder who is passionate about exploring the intersection of AI and computer creativity. With a Bachelor's degree in Computer Science, a Master's degree, and a Ph.D. in Art & Technology, his practice focuses on computer art and AI, with an emphasis on interactive installations and performances.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+
+Recently, Barretto completed a Postdoctoral Research position at the Medialab at the Federal University of Goiás, where he studied the generation of VR and fulldome immersive images using techniques like StyleGAN3 and Stable Diffusion.
+
+
+
+As an artist, Barretto has exhibited a series of interactive artworks at various art festivals and exhibitions across Brazil for over 10 years.
