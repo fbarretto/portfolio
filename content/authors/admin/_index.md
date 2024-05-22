@@ -21,9 +21,9 @@ status:
 bio: Software engineer, multimedia artist, creative technologist, and maker playing with AI and Computer Creativity.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+  - Artificial Intelligence
+  - Computational Linguistics
+  - Information Retrieval
 
 #education:
 #  courses:
