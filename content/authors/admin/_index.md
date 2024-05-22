@@ -51,7 +51,7 @@ social:
   - icon: instagram
     icon_pack: fab
     link: https://instagram.com/geocushen
-    - icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/gcushen
 
